@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="text_button_size">17sp</dimen>
+    <dimen name="margin_time">50dp</dimen>
+    <dimen name="edit_time">160dp</dimen>
+    <dimen name="dimension_more">36dp</dimen>
+    <dimen name="margin_item_task">5dp</dimen>
+</resources>

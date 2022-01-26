@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To do List</string>
+    <string name="Input_title">Titulo</string>
+    <string name="input_description">Descrição</string>
+    <string name="input_calendar">Data</string>
+    <string name="input_hour">Hora</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="txt_create_task">Criar Tarefa</string>
+    <string name="cont_descri_float">Botão para criar uma tarefa</string>
+    <string name="txt_never_task">Ops!!! Você não possui\n nenhuma tarefa</string>
+</resources>
