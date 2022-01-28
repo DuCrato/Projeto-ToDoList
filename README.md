@@ -3,7 +3,7 @@ Consiste em criar uma "lista de tarefas" para organizar e priorizar tarefas. Tem
 App simples somente duas telas e sem banco de dados(Futuramente desejo implementar)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/84888370/151211702-c63851d3-321d-4eb0-bd8c-702768906f54.png" width="700px"
+<img src="https://user-images.githubusercontent.com/84888370/151211702-c63851d3-321d-4eb0-bd8c-702768906f54.png" width="500px"
 </div>
 
 <div align="center">
